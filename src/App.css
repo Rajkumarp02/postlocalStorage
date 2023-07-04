@@ -1,0 +1,86 @@
+
+
+*{
+   margin: 0%;
+   padding: 0%;
+   box-sizing: border-box;
+}
+ 
+
+.container{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: -5%;
+  padding: 10% 0;
+}
+
+h1{
+  background-color: rgba(244, 165, 96, 0.993);
+  border-radius: 10px 10px;
+  width: 95%;
+  border: 3px solid;
+  outline: none;
+  border: none;
+}
+
+.DeleteAll{
+  background-color: rgba(244, 165, 96, 0.993);
+  border-radius: 10px 10px;
+  width: 95%;
+  border: 3px solid;
+  outline: none;
+  border: none;
+  margin-top: 2%;
+  padding: 10px 10px;
+}
+.DeleteOne{
+  background-color: rgba(244, 165, 96, 0.993);
+ 
+}
+input{
+ width: 95%; 
+ height: 70%;
+ background-color: rgba(245, 193, 193, 0.562);
+ padding: 30px 10px;
+}
+
+.post button{
+  display: inline-block;
+  border: 1px solid;
+  border-radius: 10px 10px;
+  width: 100%;
+  flex-direction: row;
+}
+.view{
+  margin-top: 3%;
+}
+
+
+h4{
+  background-color: rgba(244, 165, 96, 0.993);
+  border-radius: 10px 10px;
+  width: 95%;
+  border: 3px solid;
+  outline: none;
+  border: none;
+  margin: 10px 0;
+}
+
+h5{
+  width: 95%; 
+  height: 70%;
+  background-color: rgba(245, 193, 193, 0.562);
+  padding: 10px 10px;
+  
+}
+h3{
+  background-color: rgba(244, 165, 96, 0.993);
+  border-radius: 10px 10px;
+  width: 95%;
+  border: 3px solid;
+  outline: none;
+  border: none;
+}
